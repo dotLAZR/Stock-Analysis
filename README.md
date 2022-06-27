@@ -29,7 +29,7 @@ Repository Link: https://github.com/luis-zavalaa/stock-analysis
 
   ### Refactoring
   
-  * Refactoring the code has shown its clear advantages as it is more efficient in terms of how long it takes to loop and collect the data. As well as being more flexible in terms of different kinds of data you may be to reuse the code for.
+  * Refactoring the code has shown its clear advantages as it is more efficient in terms of how long it takes to loop through and collect the data. As well as being more flexible in terms of different kinds of data you may be to reuse the code for.
 
 * One of the disadvantages of beginning to refactor code is that it can easily be lost in the refactoring process. Using our code from the module as a reference and switching between one and the other caused me to lose some of the code from the module prompting backtracking to fix code. 
   #### 2017
