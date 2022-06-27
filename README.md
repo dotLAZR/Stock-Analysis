@@ -2,7 +2,7 @@
 
 Repository Link: https://github.com/luis-zavalaa/stock-analysis
 
-## Analysis of stock return between 2017-18. 
+## Analysis of stock(s) return between 2017-18. 
 
   - Helping Steve analyze the percentage return of green stocks over 2 years in order to help Steve's parents get the best possible return on investment. 
 
