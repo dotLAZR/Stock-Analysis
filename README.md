@@ -1,5 +1,7 @@
 # Analysis of Green Stocks
 
+Repository Link: https://github.com/luis-zavalaa/stock-analysis
+
 ## Analysis of stock return between 2017-18. 
 
   - Helping Steve analyze the percentage return of "green" stocks over 2 years in order to help Steve's parents get the best possible return. 
@@ -8,9 +10,9 @@
 
 ## Results
   
-- picture 2017
+ ![2017 Total Stock Return] (Challenge_2_Resources/2017_StockReturn.png)
 
-* summary
+* 
 
 - picture 2018
 
