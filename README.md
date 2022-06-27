@@ -23,7 +23,7 @@ Repository Link: https://github.com/luis-zavalaa/stock-analysis
 ![2018 Total Stock Return](/Resources/2018_StockReturn.png)
 
 * Looking at the following year DQ, with now a significantly higher dialy volume of traded stocks, has dropped to a return of -62%. Showing us that the more people traded the stock the more it dropped in returns. 
-* The data sugest the best possible stock Steve's parents should invest in is ENPH, almost trippling in Total Daily Volume it has still managed to provide a postive return of more than 80%. 
+* The data sugest the best possible stock Steve's parents should invest in is ENPH, almost trippling in Total Daily Volume, it has still managed to provide a postive return of more than 80%. 
 
 ## Summary
 
