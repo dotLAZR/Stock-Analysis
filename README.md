@@ -29,7 +29,8 @@ Repository Link: https://github.com/luis-zavalaa/stock-analysis
 
   ### Refactoring
   
-  - 
+  #### 2017
+  ![2017 Time Comparison](/Resources/VBA_Challenge2017.png/Resources/2017Module.png)
   
     * summary (faster)
     * summary (code could be lost in the process of refactoring)
