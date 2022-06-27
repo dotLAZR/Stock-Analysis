@@ -14,7 +14,7 @@ Repository Link: https://github.com/luis-zavalaa/stock-analysis
   
  ![2017 Total Stock Return](/Resources/2017_StockReturn.png)
  
-* In the Analysis of the trading year 2017, it shows us that Steve’s stock of choice “DQ” would have provided a great return of almost 200%. Other stocks that provided positive returns are ENPH and FSLR with both providing over 100% in returns.
+* In the analysis of the trading year 2017, it shows us that Steve’s stock of choice “DQ” would have provided a great return of almost 200%. Other stocks that provided positive returns are ENPH and FSLR with both providing over 100% in returns.
 * Looking deeper the data shows that the Total Daily Volume for our stock “DQ” was the lowest of the stocks. Although the return was 199% the sample size was significantly smaller compared to the rest of the stocks.
 
  
