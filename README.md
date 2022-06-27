@@ -14,7 +14,7 @@ Repository Link: https://github.com/luis-zavalaa/stock-analysis
   
  ![2017 Total Stock Return](/Resources/2017_StockReturn.png)
  
-* In the Analysis of the trading year 2017, it shows us that Steve’s stock of choice “DQ” would have provided a great return of almost 200%. Other stocks that provided positive returns are ENPH and FSLR with both providng over 100% in returns.
+* In the Analysis of the trading year 2017, it shows us that Steve’s stock of choice “DQ” would have provided a great return of almost 200%. Other stocks that provided positive returns are ENPH and FSLR with both providing over 100% in returns.
 * Looking deeper the data shows that the Total Daily Volume for our stock “DQ” was the lowest of the stocks. Although the return was 199% the sample size was significantly smaller compared to the rest of the stocks.
 
  
@@ -22,8 +22,8 @@ Repository Link: https://github.com/luis-zavalaa/stock-analysis
 
 ![2018 Total Stock Return](/Resources/2018_StockReturn.png)
 
-* Looking at the following year DQ, with now a significantly higher dialy volume of traded stocks, has dropped to a return of -62%. Showing us that the more people traded the stock the more it dropped in returns. 
-* The data sugest the best possible stock Steve's parents should invest in is ENPH, almost trippling in Total Daily Volume, it has still managed to provide a postive return of more than 80%. 
+* Looking at the following year DQ, with now a significantly higher daily volume of traded stocks, has dropped to a return of -62%. Showing us that the more people traded the stock the more it dropped in returns. 
+* The data suggest the best possible stock Steve's parents should invest in is ENPH, almost tripling in Total Daily Volume, it has still managed to provide a positive return of more than 80%. 
 
 ## Summary
 
@@ -37,8 +37,8 @@ Repository Link: https://github.com/luis-zavalaa/stock-analysis
   ![2018 Time comparison](/Resources/VBA_Challenge_2018.png)
   ![2018 Module](/Resources/2018Module.png)
   
-* Refactoring the code has shown its clear advantages as it is more efficent in terms of how long it takes to loop and collect the data. As well as being more felxible in terms of different kinds of data you may be to reuse the code for.
+* Refactoring the code has shown its clear advantages as it is more efficient in terms of how long it takes to loop and collect the data. As well as being more flexible in terms of different kinds of data you may be to reuse the code for.
 
-* One of the disadvantages of beggining to refactor code is that it can easily be lost in the refactoring process. Using our code from the module as a reference and switching between one and the other caused me to lose some of the code from the module promting backtracking to fix code. 
-    
+* One of the disadvantages of beginning to refactor code is that it can easily be lost in the refactoring process. Using our code from the module as a reference and switching between one and the other caused me to lose some of the code from the module prompting backtracking to fix code. 
+
     
