@@ -29,6 +29,9 @@ Repository Link: https://github.com/luis-zavalaa/stock-analysis
 
   ### Refactoring
   
+  * Refactoring the code has shown its clear advantages as it is more efficient in terms of how long it takes to loop and collect the data. As well as being more flexible in terms of different kinds of data you may be to reuse the code for.
+
+* One of the disadvantages of beginning to refactor code is that it can easily be lost in the refactoring process. Using our code from the module as a reference and switching between one and the other caused me to lose some of the code from the module prompting backtracking to fix code. 
   #### 2017
   ![2017 Time Comparison](/Resources/VBA_Challenge_2017.png) 
   ![2017 Module](/Resources/2017Module.png)
@@ -37,8 +40,6 @@ Repository Link: https://github.com/luis-zavalaa/stock-analysis
   ![2018 Time comparison](/Resources/VBA_Challenge_2018.png)
   ![2018 Module](/Resources/2018Module.png)
   
-* Refactoring the code has shown its clear advantages as it is more efficient in terms of how long it takes to loop and collect the data. As well as being more flexible in terms of different kinds of data you may be to reuse the code for.
 
-* One of the disadvantages of beginning to refactor code is that it can easily be lost in the refactoring process. Using our code from the module as a reference and switching between one and the other caused me to lose some of the code from the module prompting backtracking to fix code. 
 
     
