@@ -10,7 +10,7 @@ Repository Link: https://github.com/luis-zavalaa/stock-analysis
 
 ## Results
   
- ![2017 Total Stock Return] (Challenge_2_Resources/2017_StockReturn.png)
+ ! [2017 Total Stock Return] (Challenge_2_Resources/2017_StockReturn.png)
 
 * 
 
